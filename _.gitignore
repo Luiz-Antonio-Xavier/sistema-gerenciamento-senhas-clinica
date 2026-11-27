@@ -1,0 +1,11 @@
+# Executáveis e binários
+sistema
+sistema.exe
+*.out
+*.o
+*.exe
+
+# Arquivos de editor
+.vscode/
+.idea/
+*.swp
